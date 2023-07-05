@@ -65,61 +65,61 @@ drshift6=circshift(rshift6,6,1);
 drshift7=circshift(rshift7,7,1);
 
 diffr1=rshift1-rshift2;
-diffr2=rshift1-rshift3;
-diffr3=rshift1-rshift4;
-diffr4=rshift1-rshift5;
-diffr5=rshift1-rshift6;
-diffr6=rshift1-rshift7;
+diffr2=rshift2-rshift3;
+diffr3=rshift3-rshift4;
+diffr4=rshift4-rshift5;
+diffr5=rshift5-rshift6;
+diffr6=rshift6-rshift7;
 
 
 diffl1=lshift1-lshift2;
-diffl2=lshift1-lshift3;
-diffl3=lshift1-lshift4;
-diffl4=lshift1-lshift5;
-diffl5=lshift1-lshift6;
-diffl6=lshift1-lshift7;
+diffl2=lshift2-lshift3;
+diffl3=lshift3-lshift4;
+diffl4=lshift4-lshift5;
+diffl5=lshift5-lshift6;
+diffl6=lshift6-lshift7;
 
 diffu1=ushift1-ushift2;
-diffu2=ushift1-ushift3;
-diffu3=ushift1-ushift4;
-diffu4=ushift1-ushift5;
-diffu5=ushift1-ushift6;
-diffu6=ushift1-ushift7;
+diffu2=ushift2-ushift3;
+diffu3=ushift3-ushift4;
+diffu4=ushift4-ushift5;
+diffu5=ushift5-ushift6;
+diffu6=ushift6-ushift7;
 
 diffd1=dshift1-dshift2;
-diffd2=dshift1-dshift3;
-diffd3=dshift1-dshift4;
-diffd4=dshift1-dshift5;
-diffd5=dshift1-dshift6;
-diffd6=dshift1-dshift7;
+diffd2=dshift2-dshift3;
+diffd3=dshift3-dshift4;
+diffd4=dshift4-dshift5;
+diffd5=dshift5-dshift6;
+diffd6=dshift6-dshift7;
 
 difful1=ulshift1-ulshift2;
-difful2=ulshift1-ulshift3;
-difful3=ulshift1-ulshift4;
-difful4=ulshift1-ulshift5;
-difful5=ulshift1-ulshift6;
-difful6=ulshift1-ulshift7;
+difful2=ulshift2-ulshift3;
+difful3=ulshift3-ulshift4;
+difful4=ulshift4-ulshift5;
+difful5=ulshift5-ulshift6;
+difful6=ulshift6-ulshift7;
 
 diffur1=urshift1-urshift2;
-diffur2=urshift1-urshift3;
-diffur3=urshift1-urshift4;
-diffur4=urshift1-urshift5;
-diffur5=urshift1-urshift6;
-diffur6=urshift1-urshift7;
+diffur2=urshift2-urshift3;
+diffur3=urshift3-urshift4;
+diffur4=urshift4-urshift5;
+diffur5=urshift5-urshift6;
+diffur6=urshift6-urshift7;
 
 diffdl1=dlshift1-dlshift2;
-diffdl2=dlshift1-dlshift3;
-diffdl3=dlshift1-dlshift4;
-diffdl4=dlshift1-dlshift5;
-diffdl5=dlshift1-dlshift6;
-diffdl6=dlshift1-dlshift7;
+diffdl2=dlshift2-dlshift3;
+diffdl3=dlshift3-dlshift4;
+diffdl4=dlshift4-dlshift5;
+diffdl5=dlshift5-dlshift6;
+diffdl6=dlshift6-dlshift7;
 
 diffdr1=drshift1-drshift2;
-diffdr2=drshift1-drshift3;
-diffdr3=drshift1-drshift4;
-diffdr4=drshift1-drshift5;
-diffdr5=drshift1-drshift6;
-diffdr6=drshift1-drshift7;
+diffdr2=drshift2-drshift3;
+diffdr3=drshift3-drshift4;
+diffdr4=drshift4-drshift5;
+diffdr5=drshift5-drshift6;
+diffdr6=drshift6-drshift7;
 
 
 
