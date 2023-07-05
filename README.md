@@ -8,4 +8,4 @@ If you are using these codes in your research, kindly cite the following paper:
 Shahraki, H., Moradi, S. & Aalaei, S. A noise-robust method for infrared small target detection. SIViP 17, 2489–2497 (2023). https://doi.org/10.1007/s11760-022-02466-y
 
 
-
+BLCM_V2 is the extended version of the algorithm
